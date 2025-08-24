@@ -30,11 +30,11 @@ The Career Connect Automation Tool streamlines the process of gathering and shar
 4. **Email Dispatch:** Send compiled job data to candidates through automated email workflows.
 
 ## Testing Scenarios
-**Recruitment Agencies:**
+### Recruitment Agencies:
 - Automate job aggregation for multiple clients.
 - Compile and email job lists to candidates matching criteria.
 
-**Job Seekers:**
+### Job Seekers:
 - Provide personalized job notifications based on preferences.
 
 ## Technologies Used
@@ -43,7 +43,7 @@ The Career Connect Automation Tool streamlines the process of gathering and shar
 - **Email Integration:** For timely communication with candidates.
 
 ## Conclusion
-The Career Connect Automation Tool significantly enhances recruitment efficiency by automating repetitive tasks. It ensures timely delivery of job opportunities, reduces errors, and provides scalability for future advancements.
+- The Career Connect Automation Tool significantly enhances recruitment efficiency by automating repetitive tasks. It ensures timely delivery of job opportunities, reduces errors, and provides scalability for future advancements.
 
 ## Future Scope
 - **AI Integration:** Enable intelligent job matching and analytics.
